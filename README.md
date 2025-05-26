@@ -16,7 +16,7 @@ Currently, I am actively transitioning into the field of data analytics, leverag
 
 - **Professional Certifications:**  
   - Google Data Analytics  
-  - Business Intelligence  
+  - Google Business Intelligence  
   - Microsoft Power BI Data Analyst
 
 - **Technical Skills:**  
@@ -27,8 +27,7 @@ Currently, I am actively transitioning into the field of data analytics, leverag
 - **Core Strengths:**  
   - Process Optimization  
   - Financial Operations  
-  - Regulatory Compliance
-
+  - US Mortgage Service
 ---
 
 ## 🚀 Featured Projects
