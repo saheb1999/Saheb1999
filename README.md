@@ -34,10 +34,14 @@ Currently, I am actively transitioning into the field of data analytics, leverag
 
 - [A & B Cars Sales and Services Power BI Dashboard(GitHub)](https://github.com/saheb1999/Cars_Dashboard)
   This Power BI project provides a comprehensive, data-driven overview of sales performance, customer trends, insurance activity, and service operations for A & B Cars – a multi-brand automobile dealership and service network.
+
 - [UPI Transaction Analysis Dashboard – Power BI Project (GitHub)](https://github.com/saheb1999/UPI-Transaction-Dashboard_powerbi)
   This project showcases an interactive Power BI dashboard analyzing over 250K+ UPI transactions totaling ₹328 million across India. The dashboard enables dynamic exploration of transaction behavior by time, bank, device, merchant category, age group, and fraud trends.
+
 - [Cyclystic: Data Analysis Dashboard (Tableau)](https://public.tableau.com/views/Cyclystic_17384244176160/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
-  Data-driven insights into cycling trends and usage patterns.
+  An interactive data visualization project analyzing bike-sharing patterns for Cyclystic.
+The dashboard provides insights into trip durations, seasonal trends, peak seasons, and user type contributions.
+
 - [Airbnb Analysis of Athens by Neighborhoods (Tableau)](https://public.tableau.com/views/AirbnbanalysisofAthensbyNeighborhoods/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
   Interactive dashboard exploring Airbnb listings across Athens neighborhoods.
 
