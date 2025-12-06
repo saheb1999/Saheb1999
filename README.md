@@ -37,7 +37,9 @@ Currently, I am actively transitioning into the field of data analytics, leverag
 
 - [UPI Transaction Analysis Dashboard – Power BI Project (GitHub)](https://github.com/saheb1999/UPI-Transaction-Dashboard_powerbi)
   This project showcases an interactive Power BI dashboard analyzing over 250K+ UPI transactions totaling ₹328 million across India. The dashboard enables dynamic exploration of transaction behavior by time, bank, device, merchant category, age group, and fraud trends.
-
+- [Global-Sales-Analytics - Project (GitHub)](https://github.com/saheb1999/Global-Sales-Analytics)
+  This project presents an interactive Global Sales Analytics Dashboard built in Power BI, analyzing sales across 9 countries, product categories, customer demographics, and store locations.
+The dashboard delivers deep insights into profitability, customer behavior, store performance, and time-based trends, helping organizations make data-driven decisions.
 - [Cyclystic: Data Analysis Dashboard (Tableau)](https://public.tableau.com/views/Cyclystic_17384244176160/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
   An interactive data visualization project analyzing bike-sharing patterns for Cyclystic.
 The dashboard provides insights into trip durations, seasonal trends, peak seasons, and user type contributions.
