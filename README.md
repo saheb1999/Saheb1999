@@ -32,6 +32,10 @@ Currently, I am actively transitioning into the field of data analytics, leverag
 
 ## 🚀 Featured Projects
 
+- [POS_system-Retail-Sales-Analysis(GitHub)](https://github.com/saheb1999/POS_system-Retail-Sales-Analysis)
+   This project presents an interactive POS Sales Analytics Dashboard built in Power BI, analyzing a complete retail pipeline from transaction capture to business forecasting.
+  The dashboard delivers deep insights into revenue trends, customer behavior, product performance, and predictive analytics, helping retail businesses make data-driven decisions.
+
 - [A & B Cars Sales and Services Power BI Dashboard(GitHub)](https://github.com/saheb1999/Cars_Dashboard)
   This Power BI project provides a comprehensive, data-driven overview of sales performance, customer trends, insurance activity, and service operations for A & B Cars – a multi-brand automobile dealership and service network.
 
