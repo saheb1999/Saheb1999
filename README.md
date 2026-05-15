@@ -31,6 +31,9 @@ Currently, I am actively transitioning into the field of data analytics, leverag
 ---
 
 ## 🚀 Featured Projects
+- [U.S.A Mortgage Portfolio & Risk Analytics (2013–2024)](https://github.com/saheb1999/U-S-Mortgage-Analysis-)
+  This repository contains my complete U.S. Mortgage Portfolio & Risk Analytics project, built using Python (data generation), Star Schema design, and Power BI.
+It analyzes a synthetic but realistic mortgage portfolio covering 25,000 loans, 30 loan types, 10 years of data (2013–2024), across origination, servicing, delinquency, foreclosure, and macroeconomic impact.
 
 - [POS_system-Retail-Sales-Analysis(GitHub)](https://github.com/saheb1999/POS_system-Retail-Sales-Analysis)
    This project presents an interactive POS Sales Analytics Dashboard built in Power BI, analyzing a complete retail pipeline from transaction capture to business forecasting.
