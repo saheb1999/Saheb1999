@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Saheb Rafique
 
-**Experienced Sr. Process Associate | Aspiring Data Analyst**
+**Experienced Sr. Process Associate | Data Analyst**
 
 ---
 
