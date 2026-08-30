@@ -2,15 +2,13 @@
 
 **Data Analyst | Power BI | SQL | Excel | Python | MIS Reporting | Business Intelligence | Data Operations**
 
----
+
 
 ## 👨‍💼 About Me ##
-
 I'm a Data Analyst and Reporting Professional with 5+ years of experience in U.S. Mortgage Servicing, Financial Operations, and Business Reporting. I specialize in transforming raw data into meaningful insights using Power BI, SQL, Excel, and data visualization techniques.
 Throughout my career, I have worked with large volumes of mortgage and operational data, developed MIS reports, monitored business performance, and supported process improvement initiatives. My combination of domain expertise and analytical skills enables me to identify trends, improve efficiency, and deliver data-driven solutions.
----
 
- 🛠️ Skills & Certifications
+ ##🛠️ Skills & Certifications ##
 
 - **Professional Certifications:**  
   - Google Data Analytics  
